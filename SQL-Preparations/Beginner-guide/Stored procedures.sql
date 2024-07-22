@@ -73,7 +73,7 @@ CREATE PROCEDURE findByFirstAndLastName(
         IN l_name VARCHAR(50)
       )
    BEGIN
-     SELECT * FROM customers
+     SELECT * FROM employee
      WHERE 
      first_name = f_name
      AND 
