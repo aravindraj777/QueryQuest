@@ -1,0 +1,3 @@
+--Trigger = when an event happens , do something
+--          ex. (INSERT, UPDATE ,DELETE )
+--              checks data, handles errors, auditing tables
